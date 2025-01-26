@@ -1,3 +1,3 @@
 ### Terraform
 
-Infrastructure as a Code
+This branch is dedicated to AWS+Terraform related content
